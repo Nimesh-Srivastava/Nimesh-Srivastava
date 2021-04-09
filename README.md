@@ -9,6 +9,7 @@
 ### Connect with me :
 
 <br />
+
 [<img align="left" alt="Nimesh | LinkedIn" width="26px" src="https://img.icons8.com/fluent/72/linkedin.png" />](https://www.linkedin.com/in/nimesh-srivastava-927b56129)
 [<img align="left" alt="Nimesh | Instagram" width="26px" src="https://img.icons8.com/fluent/72/instagram-new.png" />](https://www.instagram.com/nimesh_srivastava/)
 <br />
@@ -19,6 +20,7 @@
 ### Languages and Tools :
 
 <br />
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -36,6 +38,8 @@
 ***
 
 ### My GitHub stats :
+
+<br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nimesh-Srivastava&count_private=true&show_icons=true&theme=dark&hide_title=true" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimesh-Srivastava&layout=compact" />
 
