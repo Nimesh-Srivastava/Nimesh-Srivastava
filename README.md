@@ -33,13 +33,13 @@ I've also a cybersecurity enthusiast, and have performed penetration testing on 
 
 ## Languages and Tools
 
-**AI and ML development and research :** <br />
+*AI and ML development and research : <br />
 <img align="left" alt="TensorFlow" width="40px" src="https://img.icons8.com/color/2x/tensorflow.png" /> <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/72/python.png" /> <br /> <br />
-Android development <br />
+<br />Android development <br />
 <img align="left" alt="Android Studio" width="40px" src="https://img.icons8.com/plasticine/72/android-os.png" /> <img align="left" alt="Flutter" width="40px" src="https://img.icons8.com/color/72/flutter.png" />
 <img align="left" alt="Dart" width="40px" src="https://img.icons8.com/color/2x/dart.png" />
 <img align="left" alt="Kotlin" width="40px" src="https://img.icons8.com/color/72/kotlin.png" /> <br /> <br />
-Web Development -> <br />
+<br />Web Development <br />
 <img align="left" alt="Angular" width="40px" src="https://img.icons8.com/color/72/angularjs.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -47,12 +47,12 @@ Web Development -> <br />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <br /><br />
-Embedded system development -> <br />
+<br />Embedded system development -> <br />
 <img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/72/c-plus-plus-logo.png" /> <br /><br />
-Relational Database Management System -> <br />
+<br />Relational Database Management System -> <br />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <br /><br />
-Preffered IDE : <br />
+<br />Preferred IDE : <br />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
@@ -60,7 +60,7 @@ Preffered IDE : <br />
 
 ***
 
-### My GitHub stats :
+## My GitHub stats :
 
 <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Nimesh-Srivastava&count_private=true&show_icons=true&theme=dark&hide_title=true" />
 
