@@ -6,9 +6,9 @@
 
 Artificial Intelligence and Machine Learning is my speciality, both in degree and in life. I've been developing complex artificial neural networks for 3+ years now.  
    I've worked on various environments regarding different fields of AI, including but not limited to :  
-      1. Computer vision,
-      2. Natural Language Processing,
-      3. Deep Learning, and more.
+      1. Computer vision,  
+         2. Natural Language Processing,  
+         3. Deep Learning, and more.
 
 I've also developed IoT projects, list of some related repositories can be found in my library. 
 
