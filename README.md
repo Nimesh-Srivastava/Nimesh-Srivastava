@@ -6,9 +6,9 @@
 
 ### Connect with me :
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/fluent/72/twitter.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Nimesh | Twitter" width="24px" src="https://img.icons8.com/fluent/72/twitter.png" />][twitter]
+[<img align="left" alt="Nimesh | LinkedIn" width="24px" src="https://img.icons8.com/fluent/72/linkedin.png" />][linkedin]
+[<img align="left" alt="Nimesh | Instagram" width="24px" src="https://img.icons8.com/fluent/72/instagram-new.png" />][instagram]
 
 
 ### Languages and Tools:
