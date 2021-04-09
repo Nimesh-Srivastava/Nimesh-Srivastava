@@ -37,10 +37,10 @@ AI and ML development and research :
 <img align="left" alt="TensorFlow" width="40px" src="https://img.icons8.com/color/2x/tensorflow.png">
 <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/72/python.png">
 <img align="left" alt="numpy" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/640px-NumPy_logo_2020.svg.png">
-<img align="left" alt="pandas" width="100px" src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png">
+<img align="left" alt="pandas" width="110px" src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png">
 <img align="left" alt="keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/512px-Keras_logo.svg.png">
 <img align="left" alt="openCV" width="40px" src="https://pics.freeicons.io/uploads/icons/png/2084117441551941714-512.png">
-<img align="left" alt="matplotlib" width="90px" src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg">
+<img align="left" alt="matplotlib" width="110px" src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg">
 <br><br><br>
 Android development :
 <br>
