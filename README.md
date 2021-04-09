@@ -37,7 +37,7 @@ AI and ML development and research :<br />
 <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/72/python.png" /> 
 <img align="left" alt="numpy" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/numpy_logo_icon_168073.png" /> 
 <img align="left" alt="pandas" width="40px" src="https://www.pngrepo.com/png/306534/180/pandas.png" /> 
-<img align="left" alt="keras" width="40px" src="https://brandeps.com/icon-download/K/Keras-icon-vector-01.svg" /> 
+<img align="left" alt="keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/512px-Keras_logo.svg.png" /> 
 <img align="left" alt="openCV" width="40px" src="https://pics.freeicons.io/uploads/icons/png/2084117441551941714-512.png" /> <br /> <br />
 <br />Android development :<br />
 
