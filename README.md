@@ -9,9 +9,9 @@
 Artificial Intelligence and Machine Learning is my speciality, both in degree and in life. I've been developing complex artificial neural networks for 3+ years now.  <br />
 <br />
 I've worked on various environments regarding different fields of AI, including but not limited to :<br />
-      1. Computer vision,<br />
-      2. Natural Language Processing,<br />
-      3. Deep Learning, and more.
+      🥇 Computer vision,<br />
+      🥈 Natural Language Processing,<br />
+      🥉 Deep Learning, and more.
 
 <br />
 <br />
@@ -33,10 +33,10 @@ I've also a cybersecurity enthusiast, and have performed penetration testing on 
 
 ## Languages and Tools
 
-*AI and ML development and research :* <br />
+_AI and ML development and research :_ <br />
 
 <img align="left" alt="TensorFlow" width="40px" src="https://img.icons8.com/color/2x/tensorflow.png" /> <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/72/python.png" /> <br /> <br />
-<br /> *Android development :* <br />
+<br /> _Android development :_ <br />
 
 <img align="left" alt="Android Studio" width="40px" src="https://img.icons8.com/plasticine/72/android-os.png" /> <img align="left" alt="Flutter" width="40px" src="https://img.icons8.com/color/72/flutter.png" />
 <img align="left" alt="Dart" width="40px" src="https://img.icons8.com/color/2x/dart.png" />
@@ -50,7 +50,7 @@ I've also a cybersecurity enthusiast, and have performed penetration testing on 
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <br /><br />
-<br /> *Embedded system development :* <br />
+<br /> _Embedded system development :_ <br />
 
 <img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/72/c-plus-plus-logo.png" /> <br /><br />
 <br /> *Relational Database Management System :* <br />
