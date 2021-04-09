@@ -45,7 +45,7 @@ AI and ML development and research :
 Android development :
 <br>
 <br>
-<img align="left" alt="Android Studio" width="40px" src="https://img.icons8.com/plasticine/72/android-os.png">
+<img align="left" alt="Android Studio" width="40px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png">
 <img align="left" alt="Flutter" width="40px" src="https://img.icons8.com/color/72/flutter.png">
 <img align="left" alt="Dart" width="40px" src="https://img.icons8.com/color/2x/dart.png">
 <img align="left" alt="Kotlin" width="40px" src="https://img.icons8.com/color/72/kotlin.png">
