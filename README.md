@@ -1,5 +1,6 @@
-## Hi, I'm Nimesh Srivastava
+# Hi, I'm Nimesh Srivastava
 
+### I am a Full Stack Developer, and a Researcher
 - 🔭 I’m currently working on modernizing the development of artificial neural networks
 - 🌱 Have completed multiple JS frameworks, currently learning Angular
 
