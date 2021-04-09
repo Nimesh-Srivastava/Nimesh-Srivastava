@@ -58,7 +58,8 @@ I've also a cybersecurity enthusiast, and have performed penetration testing on 
 ### My GitHub stats :
 
 <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Nimesh-Srivastava&count_private=true&show_icons=true&theme=dark&hide_title=true" />
+
 <br />
-<br />
+
 <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimesh-Srivastava&layout=compact" />
 
