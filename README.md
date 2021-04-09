@@ -38,16 +38,21 @@ AI and ML -> <br />
 Android -> <br />
 <img align="left" alt="Android Studio" width="26px" src="https://img.icons8.com/plasticine/72/android-os.png" /> <img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/72/flutter.png" />
 <img align="left" alt="Dart" width="26px" src="https://img.icons8.com/color/2x/dart.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://img.icons8.com/color/72/kotlin.png" />
+<img align="left" alt="Kotlin" width="26px" src="https://img.icons8.com/color/72/kotlin.png" /> <br /> <br />
+Web Development -> <br />
 <img align="left" alt="Angular" width="26px" src="https://img.icons8.com/color/72/angularjs.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/72/c-plus-plus-logo.png" />
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/72/java-coffee-cup-logo.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <br /><br />
+Embedded system development -> <br />
+<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/72/c-plus-plus-logo.png" /> <br /><br />
+Relational Database Management System -> <br />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<br /><br />
+Preffered IDE : <br />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
