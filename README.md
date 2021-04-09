@@ -18,7 +18,7 @@ Some of my previous work includes projects on :<br>
 I'm also a cybersecurity enthusiast, and have performed various kinds of security testing on multiple targets using Kali linux<img align="left" alt="Kali Linux" width="32px" src="https://img.icons8.com/color/2x/kali-linux.png"><br>
 
 ***
-<br>
+
 
 ## Connect with me 
 [<img align="left" alt="Nimesh | LinkedIn" width="40px" src="https://img.icons8.com/fluent/72/linkedin.png">](https://www.linkedin.com/in/nimesh-srivastava-927b56129)
