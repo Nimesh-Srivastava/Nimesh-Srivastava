@@ -34,7 +34,7 @@ I've also a cybersecurity enthusiast, and have performed penetration testing on 
 AI and ML development and research :
 
 <br />
-<img align="left" alt="TensorFlow" width="40px" src="https://img.icons8.com/color/2x/tensorflow.png" />
+<img align="left" alt="TensorFlow" width="40px" src="https://img.icons8.com/color/2x/tensorflow.png">
 <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/72/python.png" />
 <img align="left" alt="numpy" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/640px-NumPy_logo_2020.svg.png" />
 <img align="left" alt="pandas" width="100px" src="https://pandas.pydata.org/static/img/pandas_white.svg" />
