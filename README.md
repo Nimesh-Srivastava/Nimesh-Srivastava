@@ -15,9 +15,8 @@ I've worked on various environments regarding different fields of AI, including 
 
 <br />
 <br />
-I've also a cybersecurity enthusiast, and have performed penetration testing on multiple occasions with different targets in<img align="left" alt="Kali Linux" width="26px" src="https://img.icons8.com/color/2x/kali-linux.png" />
+I've also a cybersecurity enthusiast, and have performed penetration testing on multiple occasions with different targets in Kali<img align="left" alt="Kali Linux" width="26px" src="https://img.icons8.com/color/2x/kali-linux.png" />
 
-<br />
 <br />
 
 ***
