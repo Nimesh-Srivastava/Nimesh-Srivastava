@@ -31,7 +31,7 @@
 ![Nimesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nimesh-Srivastava&count_private=true&show_icons=true&theme=dark&hide_title=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimesh-Srivastava&layout=compact)
 ***
 <br />
-<br />
-**My github stats :**
+**My github stats :
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nimesh-Srivastava&count_private=true&show_icons=true&theme=dark&hide_title=true"    /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimesh-Srivastava&layout=compact" />
 
