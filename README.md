@@ -83,9 +83,9 @@ Preferred IDE :
 -->
 
 ## Connect with me 
-[<img align="left" alt="Nimesh | LinkedIn" width="40px" src="https://img.icons8.com/fluent/72/linkedin.png">](https://www.linkedin.com/in/nimesh-srivastava-927b56129)
-[<img align="left" alt="Nimesh | Instagram" width="40px" src="https://img.icons8.com/fluent/72/instagram-new.png">](https://www.instagram.com/nimesh_srivastava/)
-[<img align="left" alt="Nimesh | GeeksForGeeks" width="40px" src="https://img.icons8.com/color/452/GeeksforGeeks.png">](https://auth.geeksforgeeks.org/user/_nimesh_)
-[<img align="left" alt="Nimesh | GMail" width="40px" src="https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png">](nimeshsrivastava00@gmail.com)
-[<img align="left" alt="Nimesh | Reddit" width="40px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-512.png">](https://www.reddit.com/user/ZoneDeveloper)
-[<img align="left" alt="Nimesh | GMail" width="40px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png">](http://discord.com/channels/Nimesh#4916)
+[<img align="left" alt="Nimesh | LinkedIn" width="25px" src="https://img.icons8.com/fluent/72/linkedin.png">](https://www.linkedin.com/in/nimesh-srivastava-927b56129)
+[<img align="left" alt="Nimesh | Instagram" width="25px" src="https://img.icons8.com/fluent/72/instagram-new.png">](https://www.instagram.com/nimesh_srivastava/)
+[<img align="left" alt="Nimesh | GeeksForGeeks" width="25px" src="https://img.icons8.com/color/452/GeeksforGeeks.png">](https://auth.geeksforgeeks.org/user/_nimesh_)
+[<img align="left" alt="Nimesh | GMail" width="25px" src="https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png">](nimeshsrivastava00@gmail.com)
+[<img align="left" alt="Nimesh | Reddit" width="25px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-512.png">](https://www.reddit.com/user/ZoneDeveloper)
+[<img align="left" alt="Nimesh | GMail" width="25px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png">](http://discord.com/channels/Nimesh#4916)
