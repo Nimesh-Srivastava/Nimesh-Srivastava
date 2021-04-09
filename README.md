@@ -44,13 +44,13 @@ AI and ML development and research :<br />
 <img align="left" alt="Angular" width="40px" src="https://img.icons8.com/color/72/angularjs.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/72/java-coffee-cup-logo.png" />
+<img align="left" alt="php" width="40px" src="https://img.icons8.com/officel/2x/php-logo.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /><br /> <br />
-<br />Embedded system development :<br />
+<br />Embedded systems and applications development :<br />
 
-<img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/72/c-plus-plus-logo.png" /> <br /> <br />
+<img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/72/java-coffee-cup-logo.png" /> <img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/72/c-plus-plus-logo.png" /> <br /> <br />
 <br />Relational Database Management System :<br />
 
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
