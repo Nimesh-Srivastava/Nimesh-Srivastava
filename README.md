@@ -15,7 +15,7 @@ I've worked on various environments regarding different fields of AI, including 
 
 <br />
 <br />
-I've also a cybersecurity enthusiast, and have performed penetration testing on multiple occasions with different targets in Kali<img align="left" alt="Kali Linux" width="26px" src="https://img.icons8.com/color/2x/kali-linux.png" />
+I've also a cybersecurity enthusiast, and have performed penetration testing on multiple occasions with different targets in Kali<img align="left" alt="Kali Linux" width="32px" src="https://img.icons8.com/color/2x/kali-linux.png" />
 
 <br />
 
@@ -23,8 +23,8 @@ I've also a cybersecurity enthusiast, and have performed penetration testing on 
 
 ### Connect with me :
 
-[<img align="left" alt="Nimesh | LinkedIn" width="26px" src="https://img.icons8.com/fluent/72/linkedin.png" />](https://www.linkedin.com/in/nimesh-srivastava-927b56129)
-[<img align="left" alt="Nimesh | Instagram" width="26px" src="https://img.icons8.com/fluent/72/instagram-new.png" />](https://www.instagram.com/nimesh_srivastava/)
+[<img align="left" alt="Nimesh | LinkedIn" width="32px" src="https://img.icons8.com/fluent/72/linkedin.png" />](https://www.linkedin.com/in/nimesh-srivastava-927b56129)
+[<img align="left" alt="Nimesh | Instagram" width="32px" src="https://img.icons8.com/fluent/72/instagram-new.png" />](https://www.instagram.com/nimesh_srivastava/)
 
 <br />
 <br />
@@ -33,9 +33,9 @@ I've also a cybersecurity enthusiast, and have performed penetration testing on 
 
 ### Languages and Tools :
 
-AI and ML -> <br />
-<img align="left" alt="TensorFlow" width="26px" src="https://img.icons8.com/color/2x/tensorflow.png" /> <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/72/python.png" /> <br /> <br />
-Android -> <br />
+**AI and ML development and research :** <br />
+<img align="left" alt="TensorFlow" width="32px" src="https://img.icons8.com/color/2x/tensorflow.png" /> <img align="left" alt="Python" width="20px" src="https://img.icons8.com/color/72/python.png" /> <br /> <br />
+Android development <br />
 <img align="left" alt="Android Studio" width="26px" src="https://img.icons8.com/plasticine/72/android-os.png" /> <img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/72/flutter.png" />
 <img align="left" alt="Dart" width="26px" src="https://img.icons8.com/color/2x/dart.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://img.icons8.com/color/72/kotlin.png" /> <br /> <br />
