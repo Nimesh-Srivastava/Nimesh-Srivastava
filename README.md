@@ -1,4 +1,4 @@
-# Hello, I'm Nimesh Srivastava 👨‍💻
+# Hello, I'm Nimesh  👨‍💻
 
 ### I am a Full Stack Developer, and a Researcher
 - 🔭 I’m currently working on modernizing the development of artificial neural networks
