@@ -12,6 +12,7 @@ Artificial Intelligence and Machine Learning is my speciality, both in degree an
          3. Deep Learning, and more.
 
 <br />
+<br />
 I've also developed IoT projects, list of some related repositories can be found in my library. 
 
 ***
