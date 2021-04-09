@@ -33,9 +33,9 @@ I've also a cybersecurity enthusiast, and have performed penetration testing on 
 
 ### Languages and Tools :
 
-AI and ML ->
+AI and ML -> <br />
 <img align="left" alt="TensorFlow" width="26px" src="https://img.icons8.com/color/2x/tensorflow.png" /> <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/72/python.png" /> <br />
-Android -> 
+Android -> <br />
 <img align="left" alt="Android Studio" width="26px" src="https://img.icons8.com/plasticine/72/android-os.png" /> <img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/72/flutter.png" />
 <img align="left" alt="Dart" width="26px" src="https://img.icons8.com/color/2x/dart.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://img.icons8.com/color/72/kotlin.png" />
