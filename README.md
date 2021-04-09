@@ -6,7 +6,7 @@
 - 🌱 Have completed projects in multiple JS frameworks, currently learning Angular
 
 <br>
-Artificial Intelligence and Machine Learning is my speciality, both in degree and in life. I've been developing complex artificial neural networks for 3+ years now.  <br>
+Artificial Intelligence and Machine Learning is my speciality, both in degree and in general. I've been developing complex artificial neural networks for 3+ years now.  <br>
 <br>
 I've worked on various environments regarding different fields of AI, including but not limited to :<br>
       🥇 Computer vision,<br>
