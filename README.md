@@ -32,7 +32,7 @@ I've also a cybersecurity enthusiast, and have performed penetration testing on 
 
 ## Languages and Tools
 AI and ML development and research :
-
+<br>
 <br>
 <img align="left" alt="TensorFlow" width="40px" src="https://img.icons8.com/color/2x/tensorflow.png">
 <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/72/python.png">
