@@ -4,11 +4,14 @@
 - 🔭 I’m currently working on modernizing the development of artificial neural networks
 - 🌱 Have completed multiple JS frameworks, currently learning Angular
 
+***
+
 ### Connect with me :
 
 [<img align="left" alt="Nimesh | LinkedIn" width="26px" src="https://img.icons8.com/fluent/72/linkedin.png" />](https://www.linkedin.com/in/nimesh-srivastava-927b56129)
 [<img align="left" alt="Nimesh | Instagram" width="26px" src="https://img.icons8.com/fluent/72/instagram-new.png" />](https://www.instagram.com/nimesh_srivastava/)
 
+***
 
 ### Languages and Tools:
 
