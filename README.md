@@ -3,12 +3,11 @@
 ### I am a Full Stack Developer, and a Researcher
 - 🔭 I’m currently working on modernizing the development of artificial neural networks
 - 🌱 Have completed multiple JS frameworks, currently learning Angular
-<br />
 
 ***
-<br />
+
 ### Connect with me :
-<br />
+
 [<img align="left" alt="Nimesh | LinkedIn" width="26px" src="https://img.icons8.com/fluent/72/linkedin.png" />](https://www.linkedin.com/in/nimesh-srivastava-927b56129)
 [<img align="left" alt="Nimesh | Instagram" width="26px" src="https://img.icons8.com/fluent/72/instagram-new.png" />](https://www.instagram.com/nimesh_srivastava/)
 <br />
@@ -17,7 +16,7 @@
 ***
 
 ### Languages and Tools :
-<br />
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
