@@ -35,19 +35,19 @@ AI and ML development and research :
 
 <br />
 <img align="left" alt="TensorFlow" width="40px" src="https://img.icons8.com/color/2x/tensorflow.png" />
-<img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/72/python.png" /> 
-<img align="left" alt="numpy" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/640px-NumPy_logo_2020.svg.png" /> 
-<img align="left" alt="pandas" width="100px" src="https://pandas.pydata.org/static/img/pandas_white.svg" /> 
-<img align="left" alt="keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/512px-Keras_logo.svg.png" /> 
-<img align="left" alt="openCV" width="40px" src="https://pics.freeicons.io/uploads/icons/png/2084117441551941714-512.png" /> 
+<img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/72/python.png" />
+<img align="left" alt="numpy" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/640px-NumPy_logo_2020.svg.png" />
+<img align="left" alt="pandas" width="100px" src="https://pandas.pydata.org/static/img/pandas_white.svg" />
+<img align="left" alt="keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/512px-Keras_logo.svg.png" />
+<img align="left" alt="openCV" width="40px" src="https://pics.freeicons.io/uploads/icons/png/2084117441551941714-512.png" />
 <br /><br /><br />
 Android development :
 
 <br />
-<img align="left" alt="Android Studio" width="40px" src="https://img.icons8.com/plasticine/72/android-os.png" /> 
+<img align="left" alt="Android Studio" width="40px" src="https://img.icons8.com/plasticine/72/android-os.png" />
 <img align="left" alt="Flutter" width="40px" src="https://img.icons8.com/color/72/flutter.png" />
 <img align="left" alt="Dart" width="40px" src="https://img.icons8.com/color/2x/dart.png" />
-<img align="left" alt="Kotlin" width="40px" src="https://img.icons8.com/color/72/kotlin.png" /> 
+<img align="left" alt="Kotlin" width="40px" src="https://img.icons8.com/color/72/kotlin.png" />
 <br /><br /><br />
 Web Development :
 
@@ -58,13 +58,13 @@ Web Development :
 <img align="left" alt="php" width="40px" src="https://img.icons8.com/officel/2x/php-logo.png" />
 <img align="left" alt="JavaScript" width="40px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="40px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
+<img align="left" alt="Node.js" width="40px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <br /><br /><br />
 Embedded systems and applications development :
 
 <br />
-<img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/72/java-coffee-cup-logo.png" /> 
-<img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/72/c-plus-plus-logo.png" /> 
+<img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/72/java-coffee-cup-logo.png" />
+<img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/72/c-plus-plus-logo.png" />
 <br /><br /><br />
 Relational Database Management System :
 
