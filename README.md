@@ -2,7 +2,7 @@
 
 ### I am a Full Stack Developer, and a Researcher
 - 🔭 I’m currently working on modernizing the development of artificial neural networks
-- 🌱 Have completed multiple JS frameworks, currently learning Angular
+- 🌱 Have completed projects in multiple JS frameworks, currently learning Angular
 
 ***
 
