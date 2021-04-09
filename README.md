@@ -20,8 +20,6 @@ I'm also a cybersecurity enthusiast, and have performed various kinds of securit
 ***
 
 <br>
-<br>
-<br>
 
 ## Languages and Tools
 AI and ML development and research :
@@ -82,6 +80,7 @@ Preferred IDE :
 
 <br>
 <br>
+
 ## Connect with me 
 [<img align="left" alt="Nimesh | LinkedIn" width="40px" src="https://img.icons8.com/fluent/72/linkedin.png">](https://www.linkedin.com/in/nimesh-srivastava-927b56129)
 [<img align="left" alt="Nimesh | Instagram" width="40px" src="https://img.icons8.com/fluent/72/instagram-new.png">](https://www.instagram.com/nimesh_srivastava/)
