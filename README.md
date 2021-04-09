@@ -15,7 +15,7 @@ Some of my previous work includes projects on :<br>
 
 <br>
 <br>
-I've also a cybersecurity enthusiast, and have performed penetration testing on multiple occasions with different targets in Kali<img align="left" alt="Kali Linux" width="32px" src="https://img.icons8.com/color/2x/kali-linux.png">
+I'm also a cybersecurity enthusiast, and have performed various kinds of security testing on multiple targets using Kali linux<img align="left" alt="Kali Linux" width="32px" src="https://img.icons8.com/color/2x/kali-linux.png">
 
 <br>
 
