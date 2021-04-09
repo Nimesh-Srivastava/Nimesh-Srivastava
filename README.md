@@ -24,10 +24,9 @@ I'm also a cybersecurity enthusiast, and have performed various kinds of securit
 ## Connect with me 
 [<img align="left" alt="Nimesh | LinkedIn" width="40px" src="https://img.icons8.com/fluent/72/linkedin.png">](https://www.linkedin.com/in/nimesh-srivastava-927b56129)
 [<img align="left" alt="Nimesh | Instagram" width="40px" src="https://img.icons8.com/fluent/72/instagram-new.png">](https://www.instagram.com/nimesh_srivastava/)
-
 <br>
 <br>
-
+<br>
 
 ## Languages and Tools
 AI and ML development and research :
@@ -77,7 +76,7 @@ Preferred IDE :
 <img align="left" alt="Visual Studio Code" width="40px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 <br>
 <br>
-***
+<br>
 
 ## My GitHub stats
 <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Nimesh-Srivastava&count_private=true&show_icons=true&theme=dark&hide_title=true">
