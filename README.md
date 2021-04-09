@@ -6,7 +6,7 @@
 
 <br />
 Artificial Intelligence and Machine Learning is my speciality, both in degree and in life. I've been developing complex artificial neural networks for 3+ years now.  <br />
-
+<br />
 I've worked on various environments regarding different fields of AI, including but not limited to :<br />
       1. Computer vision,<br />
       2. Natural Language Processing,<br />
