@@ -33,7 +33,7 @@ I've also a cybersecurity enthusiast, and have performed penetration testing on 
 
 ### Languages and Tools :
 
-AI and ML -> 
+AI and ML -> <br />
 <img align="left" alt="TensorFlow" width="26px" src="https://img.icons8.com/color/2x/tensorflow.png" />
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/72/python.png" /> <br />
 Android ->
