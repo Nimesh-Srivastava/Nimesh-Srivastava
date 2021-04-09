@@ -12,6 +12,7 @@
 
 [<img align="left" alt="Nimesh | LinkedIn" width="26px" src="https://img.icons8.com/fluent/72/linkedin.png" />](https://www.linkedin.com/in/nimesh-srivastava-927b56129)
 [<img align="left" alt="Nimesh | Instagram" width="26px" src="https://img.icons8.com/fluent/72/instagram-new.png" />](https://www.instagram.com/nimesh_srivastava/)
+
 <br />
 <br />
 
@@ -32,6 +33,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/72/github--v1.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 <br />
 <br />
 
