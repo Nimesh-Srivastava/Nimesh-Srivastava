@@ -19,12 +19,6 @@ I'm also a cybersecurity enthusiast, and have performed various kinds of securit
 
 ***
 
-## Connect with me 
-[<img align="left" alt="Nimesh | LinkedIn" width="40px" src="https://img.icons8.com/fluent/72/linkedin.png">](https://www.linkedin.com/in/nimesh-srivastava-927b56129)
-[<img align="left" alt="Nimesh | Instagram" width="40px" src="https://img.icons8.com/fluent/72/instagram-new.png">](https://www.instagram.com/nimesh_srivastava/)
-[<img align="left" alt="Nimesh | GeeksForGeeks" width="40px" src="https://img.icons8.com/color/452/GeeksforGeeks.png">](https://auth.geeksforgeeks.org/user/_nimesh_)
-[<img align="left" alt="Nimesh | GMail" width="40px" src="https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png">](nimeshsrivastava00@gmail.com)
-[<img align="left" alt="Nimesh | Reddit" width="40px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-512.png">](https://www.reddit.com/user/ZoneDeveloper)
 <br>
 <br>
 <br>
@@ -86,3 +80,11 @@ Preferred IDE :
 
 <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimesh-Srivastava&layout=compact">
 
+<br>
+<br>
+## Connect with me 
+[<img align="left" alt="Nimesh | LinkedIn" width="40px" src="https://img.icons8.com/fluent/72/linkedin.png">](https://www.linkedin.com/in/nimesh-srivastava-927b56129)
+[<img align="left" alt="Nimesh | Instagram" width="40px" src="https://img.icons8.com/fluent/72/instagram-new.png">](https://www.instagram.com/nimesh_srivastava/)
+[<img align="left" alt="Nimesh | GeeksForGeeks" width="40px" src="https://img.icons8.com/color/452/GeeksforGeeks.png">](https://auth.geeksforgeeks.org/user/_nimesh_)
+[<img align="left" alt="Nimesh | GMail" width="40px" src="https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png">](nimeshsrivastava00@gmail.com)
+[<img align="left" alt="Nimesh | Reddit" width="40px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-512.png">](https://www.reddit.com/user/ZoneDeveloper)
