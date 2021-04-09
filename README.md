@@ -21,9 +21,9 @@ I've also a cybersecurity enthusiast, and have performed penetration testing on 
 
 ***
 
-### Connect with me :
+## Connect with me
 
-[<img align="left" alt="Nimesh | LinkedIn" width="32px" src="https://img.icons8.com/fluent/72/linkedin.png" />](https://www.linkedin.com/in/nimesh-srivastava-927b56129)
+[<img align="left" alt="Nimesh | LinkedIn" width="40px" src="https://img.icons8.com/fluent/72/linkedin.png" />](https://www.linkedin.com/in/nimesh-srivastava-927b56129)
 [<img align="left" alt="Nimesh | Instagram" width="32px" src="https://img.icons8.com/fluent/72/instagram-new.png" />](https://www.instagram.com/nimesh_srivastava/)
 
 <br />
@@ -34,7 +34,7 @@ I've also a cybersecurity enthusiast, and have performed penetration testing on 
 ### Languages and Tools :
 
 **AI and ML development and research :** <br />
-<img align="left" alt="TensorFlow" width="32px" src="https://img.icons8.com/color/2x/tensorflow.png" /> <img align="left" alt="Python" width="20px" src="https://img.icons8.com/color/72/python.png" /> <br /> <br />
+<img align="left" alt="TensorFlow" width="40px" src="https://img.icons8.com/color/2x/tensorflow.png" /> <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/72/python.png" /> <br /> <br />
 Android development <br />
 <img align="left" alt="Android Studio" width="26px" src="https://img.icons8.com/plasticine/72/android-os.png" /> <img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/72/flutter.png" />
 <img align="left" alt="Dart" width="26px" src="https://img.icons8.com/color/2x/dart.png" />
