@@ -54,10 +54,10 @@ I've also developed IoT projects, list of some related repositories can be found
 
 ### My GitHub stats :
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nimesh-Srivastava&count_private=true&show_icons=true&theme=dark&hide_title=true" />
+<img align="centre" src="https://github-readme-stats.vercel.app/api?username=Nimesh-Srivastava&count_private=true&show_icons=true&theme=dark&hide_title=true" />
 <br />
 <br />
 <br />
 <br />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimesh-Srivastava&layout=compact" />
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimesh-Srivastava&layout=compact" />
 
