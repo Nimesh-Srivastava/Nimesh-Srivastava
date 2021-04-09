@@ -41,7 +41,7 @@ I've also a cybersecurity enthusiast, and have performed penetration testing on 
 <img align="left" alt="Android Studio" width="40px" src="https://img.icons8.com/plasticine/72/android-os.png" /> <img align="left" alt="Flutter" width="40px" src="https://img.icons8.com/color/72/flutter.png" />
 <img align="left" alt="Dart" width="40px" src="https://img.icons8.com/color/2x/dart.png" />
 <img align="left" alt="Kotlin" width="40px" src="https://img.icons8.com/color/72/kotlin.png" /> <br /> <br />
-<br /> *Web Development : * <br />
+<br /> _Web Development :_ <br />
 
 <img align="left" alt="Angular" width="40px" src="https://img.icons8.com/color/72/angularjs.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
