@@ -70,7 +70,7 @@ Preferred IDE :
 <br>
 <br>
 <br>
-
+<!--
 ## My GitHub stats
 <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Nimesh-Srivastava&count_private=true&show_icons=true&theme=dark&hide_title=true">
 
@@ -80,6 +80,7 @@ Preferred IDE :
 
 <br>
 <br>
+-->
 
 ## Connect with me 
 [<img align="left" alt="Nimesh | LinkedIn" width="40px" src="https://img.icons8.com/fluent/72/linkedin.png">](https://www.linkedin.com/in/nimesh-srivastava-927b56129)
