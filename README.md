@@ -2,6 +2,7 @@
 
 ### I am a Full Stack Developer, and a Researcher
 - 🔭 I’m currently working on modernizing the development of artificial neural networks
+- 🦖 Developed some IoT projects back in the day
 - 🌱 Have completed projects in multiple JS frameworks, currently learning Angular
 
 <br />
@@ -14,7 +15,7 @@ I've worked on various environments regarding different fields of AI, including 
 
 <br />
 <br />
-I've also developed IoT projects, list of some related repositories can be found in my library. 
+I've also a cybersecurity enthusiast, and have performed penetration testing on multiple occasions with different targets in <img align="left" alt="Kali Linux" width="26px" src="https://img.icons8.com/color/2x/kali-linux.png" />
 
 ***
 
