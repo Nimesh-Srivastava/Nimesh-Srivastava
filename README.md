@@ -33,9 +33,12 @@ AI and ML development and research :
 <img align="left" alt="openCV" width="40px" src="https://pics.freeicons.io/uploads/icons/png/2084117441551941714-512.png">
 <img align="left" alt="matplotlib" width="120px" src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg">
 <img align="left" alt="openGL" width="90px" src="https://pics.freeicons.io/uploads/icons/png/6991391551551941714-512.png">
-<br><br><br>
+<br>
+<br>
+<br>
 
 Android development :
+
 <br>
 <br>
 <img align="left" alt="Android Studio" width="40px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png">
