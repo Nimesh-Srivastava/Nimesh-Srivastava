@@ -34,7 +34,7 @@ AI and ML development and research :
 <img align="left" alt="matplotlib" width="120px" src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg">
 <br>
 <br>
-<img align="left" alt="numpy" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/640px-NumPy_logo_2020.svg.png">
+<img align="left" alt="openGl" width="90px" src="https://pics.freeicons.io/uploads/icons/png/6991391551551941714-512.png">
 <br>
 <br>
 <br>
