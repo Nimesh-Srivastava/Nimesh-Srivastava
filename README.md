@@ -5,6 +5,13 @@
 - 🦖 Developed some IoT projects back in the day
 - 🌱 Have completed projects in multiple JS frameworks, currently learning Angular
 - 🥇 ***3 star*** coder on CodeChef https://www.codechef.com/users/nimesh_04
+- <span class="rating" style="display: inline-block; 
+                    font-size: 10px; 
+                    background: #3366CC;
+                    padding: 0 3px; 
+                    line-height: 1.3; 
+                    color: white;
+                    margin-right: 2px;">3★</span>
 
 <br>
 Artificial Intelligence and Machine Learning is my speciality, both in degree and in general. I've been developing complex artificial neural networks for 3+ years now.  <br>
