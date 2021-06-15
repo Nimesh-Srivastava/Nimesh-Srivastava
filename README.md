@@ -1,10 +1,13 @@
 # Hello there, I'm Nimesh  👨‍💻
 
 ### I am a Full Stack Developer, and a Researcher
+
+<br>
+<img width="26px" src="https://user-images.githubusercontent.com/30381993/122116024-bb45a880-ce42-11eb-9bdb-de2b6427aafc.jpeg"> on [CodeChef](https://www.codechef.com/users/nimesh_04) 
+<br>
 - 🔭 I’m currently working on modernizing the development of artificial neural networks
 - 🦖 Developed some IoT projects back in the day
 - 🌱 Have completed projects in multiple JS frameworks, currently learning Angular
-- <img width="26px" src="https://user-images.githubusercontent.com/30381993/122116024-bb45a880-ce42-11eb-9bdb-de2b6427aafc.jpeg"> on CodeChef https://www.codechef.com/users/nimesh_04
 
 <br>
 Artificial Intelligence and Machine Learning is my speciality, both in degree and in general. I've been developing complex artificial neural networks for 3+ years now.  <br>
