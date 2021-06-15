@@ -10,7 +10,7 @@
                     padding: 0 3px; 
                     line-height: 1.3; 
                     color: white;
-                    margin-right: 2px;">3★</span>coder on CodeChef https://www.codechef.com/users/nimesh_04
+                    margin-right: 2px;"> 3★ </span>coder on CodeChef https://www.codechef.com/users/nimesh_04
 
 <br>
 Artificial Intelligence and Machine Learning is my speciality, both in degree and in general. I've been developing complex artificial neural networks for 3+ years now.  <br>
