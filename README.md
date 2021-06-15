@@ -3,7 +3,9 @@
 ### I am a Full Stack Developer, and a Researcher
 
 <br>
-<img width="26px" src="https://user-images.githubusercontent.com/30381993/122116024-bb45a880-ce42-11eb-9bdb-de2b6427aafc.jpeg"></img> on [CodeChef](https://www.codechef.com/users/nimesh_04) 
+
+<img width="26px" src="https://user-images.githubusercontent.com/30381993/122116024-bb45a880-ce42-11eb-9bdb-de2b6427aafc.jpeg">on [CodeChef](https://www.codechef.com/users/nimesh_04) 
+
 <br>
 - 🔭 I’m currently working on modernizing the development of artificial neural networks
 - 🦖 Developed some IoT projects back in the day
