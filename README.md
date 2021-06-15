@@ -11,6 +11,7 @@
                     padding: 0 3px; 
                     line-height: 1.3; 
                     color: white;
+                    background: #3366CC
                     margin-right: 2px;">3★</span>
 
 <br>
