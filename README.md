@@ -1,4 +1,4 @@
-# Hello there, I'm Nimesh  <img width="10%" src="https://cdn.shopify.com/s/files/1/0254/0516/1520/files/logo_2048x.gif?v=1561039465">
+# Hello there, I'm Nimesh  <img width="1%" src="https://cdn.shopify.com/s/files/1/0254/0516/1520/files/logo_2048x.gif?v=1561039465">
 
 ### I am a Full Stack Developer, and a Researcher
 
