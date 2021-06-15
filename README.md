@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on modernizing the development of artificial neural networks
 - 🦖 Developed some IoT projects back in the day
 - 🌱 Have completed projects in multiple JS frameworks, currently learning Angular
-- <span class="rating" style="display: inline-block; 
+- 🥇<span class="rating" style="display: inline-block; 
                     font-size: 10px; 
                     background: #3366CC;
                     padding: 0 3px; 
