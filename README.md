@@ -4,13 +4,7 @@
 - 🔭 I’m currently working on modernizing the development of artificial neural networks
 - 🦖 Developed some IoT projects back in the day
 - 🌱 Have completed projects in multiple JS frameworks, currently learning Angular
-- 🥇<span class="rating" style="display: inline-block; 
-                    font-size: 10px; 
-                    background: #3366CC;
-                    padding: 0 3px; 
-                    line-height: 1.3; 
-                    color: white;
-                    margin-right: 2px;"> 3★ </span>coder on CodeChef https://www.codechef.com/users/nimesh_04
+- 🥇![Screenshot 2021-06-16 at 1 26 51 AM](https://user-images.githubusercontent.com/30381993/122116024-bb45a880-ce42-11eb-9bdb-de2b6427aafc.jpeg) coder on CodeChef https://www.codechef.com/users/nimesh_04
 
 <br>
 Artificial Intelligence and Machine Learning is my speciality, both in degree and in general. I've been developing complex artificial neural networks for 3+ years now.  <br>
