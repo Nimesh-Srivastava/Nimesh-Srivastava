@@ -9,7 +9,7 @@
 <br>
 
 - 🔭 I’m currently working on modernizing the development of artificial neural networks
-- 🦖 Developed some IoT projects back in the day
+- 🦖 Developed some IoT projects based using RaspberryPi 4B
 - 🌱 Have completed projects in multiple JS frameworks, currently learning Angular
 
 <br>
