@@ -4,7 +4,8 @@
 
 <br>
 
-<img width="25px" src="https://user-images.githubusercontent.com/30381993/122116024-bb45a880-ce42-11eb-9bdb-de2b6427aafc.jpeg"> **rated coder on [CodeChef](https://www.codechef.com/users/nimesh_04)**
+**CP and DSA&nbsp;&nbsp;:&nbsp;&nbsp;[Codechef](https://www.codechef.com/users/nimesh_04)&nbsp;&nbsp;&nbsp;&nbsp;[LeetCode](https://leetcode.com/Nimesh-Srivastava/)**
+<!-- <img width="25px" src="https://user-images.githubusercontent.com/30381993/122116024-bb45a880-ce42-11eb-9bdb-de2b6427aafc.jpeg"> **rated coder on [CodeChef](https://www.codechef.com/users/nimesh_04)** -->
 
 <br>
 
