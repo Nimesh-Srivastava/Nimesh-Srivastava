@@ -14,7 +14,7 @@
 - 🌱 Have completed projects in React and Node, currently learning Angular
 
 <br>
-Artificial Intelligence and Machine Learning is my speciality, both in degree and in general. I've been developing complex artificial neural networks for 3+ years now.  <br>
+Artificial Intelligence and Machine Learning is my speciality. I've been researching on convolusional neural networks for 4+ years now.  <br>
 <br>
 Some of my previous work includes projects on :<br>
       🥇 Computer vision,<br>
