@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on modernizing the development of artificial neural networks
 - 🦖 Developed some IoT projects using RaspberryPi 4B
-- 🌱 Have completed projects in multiple JS frameworks, currently learning Angular
+- 🌱 Have completed projects in React and Node, currently learning Angular
 
 <br>
 Artificial Intelligence and Machine Learning is my speciality, both in degree and in general. I've been developing complex artificial neural networks for 3+ years now.  <br>
