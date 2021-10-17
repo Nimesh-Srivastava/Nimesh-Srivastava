@@ -1,29 +1,29 @@
 # Hello <img width="3%" src="https://cdn.shopify.com/s/files/1/0254/0516/1520/files/logo_2048x.gif?v=1561039465">, I'm Nimesh 👨‍💻
 
-### I am a Full Stack Developer, and a Researcher
+### Full Stack Developer&nbsp;,&nbsp;&nbsp;&nbsp;Deep Learning Researcher
 
 <br>
 
-**CP and DSA&nbsp;&nbsp;:&nbsp;&nbsp;[Codechef](https://www.codechef.com/users/nimesh_04)&nbsp;&nbsp;&nbsp;&nbsp;[LeetCode](https://leetcode.com/Nimesh-Srivastava/)**
+**CP and DSA&nbsp;&nbsp;:&nbsp;&nbsp;[Codechef](https://www.codechef.com/users/nimesh_04)&nbsp;&nbsp;&nbsp;[LeetCode](https://leetcode.com/Nimesh-Srivastava/)**
 <!-- <img width="25px" src="https://user-images.githubusercontent.com/30381993/122116024-bb45a880-ce42-11eb-9bdb-de2b6427aafc.jpeg"> **rated coder on [CodeChef](https://www.codechef.com/users/nimesh_04)** -->
 
 <br>
 
-- 🔭 I’m currently working on modernizing the development of artificial neural networks
-- 🦖 Developed some IoT projects using RaspberryPi 4B
-- 🌱 Have completed projects in React and Node, currently learning Angular
+- 🔭 Currently working on modernizing the development of artificial neural networks
+- 🦖 Developed IoT projects using RaspberryPi and arduino
+- 🌱 Completed projects in React, Node.js, and Angular 11
 
 <br>
-Artificial Intelligence and Machine Learning is my speciality. I've been researching on convolusional neural networks for 4+ years now.  <br>
+Artificial Intelligence and Machine Learning is my speciality. I've been working with convolusional neural networks for 4+ years now.  <br>
 <br>
 Some of my previous work includes projects on :<br>
-      🥇 Computer vision,<br>
-      🥈 Natural Language Processing,<br>
-      🥉 Deep Learning, and more.
+      🥇 Computer vision<br>
+      🥈 Natural Language Processing<br>
+      🥉 Deep Learning
 
 <br>
 <br>
-I'm also a cybersecurity enthusiast, and have performed various kinds of security testing on multiple targets using Kali linux<img align="left" alt="Kali Linux" width="32px" src="https://img.icons8.com/color/2x/kali-linux.png">
+I'm also a cybersecurity enthusiast, and have performed security / penetration testing on multiple target devices / networks using Kali linux<img align="left" alt="Kali Linux" width="32px" src="https://img.icons8.com/color/2x/kali-linux.png">
 
 <br>
 
