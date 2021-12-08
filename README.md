@@ -11,7 +11,7 @@
 
 - 🔭 Currently working on modernizing the development of artificial neural networks
 - 🦖 Developed IoT projects using RaspberryPi and arduino
-- 🌱 Completed projects in React, Node.js, and Angular 11
+- 🌱 Completed projects in Python, Kotlin, and Java
 
 <br>
 Artificial Intelligence and Machine Learning is my speciality. I've been working with convolusional neural networks for 4+ years now.  <br>
