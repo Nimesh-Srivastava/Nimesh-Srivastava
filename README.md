@@ -10,6 +10,10 @@
 
 <br>
 
+<a href="https://stackoverflow.com/users/12560745/pr0to"><img src="https://stackoverflow.com/users/flair/12560745.png?theme=dark" width="208" height="58" alt="profile for pr0to at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for pr0to at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+<br>
+
 - 🔭 Currently working on modernizing the development of artificial neural networks
 - 🦖 Developed IoT projects using RaspberryPi and arduino
 - 🌱 Completed projects in Python, Kotlin, and Java
