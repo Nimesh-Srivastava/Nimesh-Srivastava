@@ -15,21 +15,21 @@
 
 <br>
 
-- 🔭 Currently working on modernizing the development of artificial neural networks
-- 🦖 Developed IoT projects using RaspberryPi and arduino
-- 🌱 Completed projects in Python, Kotlin, and Java
+🔭 Currently working on modernizing the development of artificial neural networks.
+<!-- - 🦖 Developed IoT projects using RaspberryPi and arduino
+- 🌱 Completed projects in Python, Kotlin, and Java -->
 
-<br>
 Artificial Intelligence and Machine Learning is my speciality. I've been working with convolusional neural networks for 5+ years now.  <br>
 <br>
 Some of my previous work includes projects on :<br>
-      🥇 Computer vision<br>
-      🥈 Natural Language Processing<br>
-      🥉 Deep Learning
+- MERN Web applications
+- MERN Mobile applications
+- Computer vision<br>
+- Natural Language Processing<br>
+- Deep Learning
 
 <br>
-<br>
-I'm also a cybersecurity enthusiast, and have performed security / penetration testing on multiple target devices / networks using Kali linux.
+Also a cybersecurity enthusiast, I have performed penetration testing on multiple target networks.
 <!-- <img align="left" alt="Kali Linux" width="32px" src="https://img.icons8.com/color/2x/kali-linux.png"> -->
 
 <br>
