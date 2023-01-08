@@ -5,7 +5,8 @@
 
 <br>
 
-**CP and DSA&nbsp;&nbsp;:&nbsp;&nbsp;[Codechef](https://www.codechef.com/users/nimesh_04)&nbsp;&nbsp;&nbsp;[LeetCode](https://leetcode.com/Nimesh-Srivastava/)**
+<!-- **CP and [Codechef](https://www.codechef.com/users/nimesh_04)&nbsp;&nbsp;&nbsp; -->
+**DSA&nbsp;&nbsp;:&nbsp;&nbsp;[LeetCode](https://leetcode.com/Nimesh-Srivastava/)**
 <!-- <img width="25px" src="https://user-images.githubusercontent.com/30381993/122116024-bb45a880-ce42-11eb-9bdb-de2b6427aafc.jpeg"> **rated coder on [CodeChef](https://www.codechef.com/users/nimesh_04)** -->
 
 <br>
@@ -19,7 +20,7 @@
 - 🌱 Completed projects in Python, Kotlin, and Java
 
 <br>
-Artificial Intelligence and Machine Learning is my speciality. I've been working with convolusional neural networks for 4+ years now.  <br>
+Artificial Intelligence and Machine Learning is my speciality. I've been working with convolusional neural networks for 5+ years now.  <br>
 <br>
 Some of my previous work includes projects on :<br>
       🥇 Computer vision<br>
@@ -28,13 +29,14 @@ Some of my previous work includes projects on :<br>
 
 <br>
 <br>
-I'm also a cybersecurity enthusiast, and have performed security / penetration testing on multiple target devices / networks using Kali linux<img align="left" alt="Kali Linux" width="32px" src="https://img.icons8.com/color/2x/kali-linux.png">
+I'm also a cybersecurity enthusiast, and have performed security / penetration testing on multiple target devices / networks using Kali linux.
+<!-- <img align="left" alt="Kali Linux" width="32px" src="https://img.icons8.com/color/2x/kali-linux.png"> -->
 
 <br>
 
 ***
 
-## Languages and Tools
+<!-- ## Languages and Tools
 AI and ML development and research :
 <br>
 <br>
@@ -88,7 +90,7 @@ Preferred IDE :
 <img align="left" alt="Visual Studio Code" width="40px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 <br>
 <br>
-<br>
+<br> -->
 <!--
 ## My GitHub stats
 <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Nimesh-Srivastava&count_private=true&show_icons=true&theme=dark&hide_title=true">
